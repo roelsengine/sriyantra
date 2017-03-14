@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
 
 #menu-0 .mbr-brand__name {
   font-size: 16px;
@@ -19,19 +21,21 @@
 #header1-1 P {
   font-size: 14px;
 }
-#slider-4 H1 {
-  text-align: right;
-}
-#slider-4 P {
-  text-align: center;
-  color: #c1c1c1;
-  font-size: 32px;
-}
 #content4-10 .mbr-section-title .mbr-header__text {
   color: #ffffff;
 }
 #content4-10 .mbr-section__col .mbr-header__text {
   color: #efefef;
+}
+#slider-4 H1 {
+  text-align: center;
+  color: #000000;
+}
+#slider-4 P {
+  text-align: center;
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Slabo 27px', serif;
 }
 #footer1-2 P {
   text-align: center;
